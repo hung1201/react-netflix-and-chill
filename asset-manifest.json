@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/react-netflix-and-chill/static/js/main.101af4d3.chunk.js",
+    "main.js.map": "/react-netflix-and-chill/static/js/main.101af4d3.chunk.js.map",
+    "runtime-main.js": "/react-netflix-and-chill/static/js/runtime-main.dd63ca59.js",
+    "runtime-main.js.map": "/react-netflix-and-chill/static/js/runtime-main.dd63ca59.js.map",
+    "static/css/2.679831fc.chunk.css": "/react-netflix-and-chill/static/css/2.679831fc.chunk.css",
+    "static/js/2.fbdf1432.chunk.js": "/react-netflix-and-chill/static/js/2.fbdf1432.chunk.js",
+    "static/js/2.fbdf1432.chunk.js.map": "/react-netflix-and-chill/static/js/2.fbdf1432.chunk.js.map",
+    "index.html": "/react-netflix-and-chill/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/react-netflix-and-chill/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.fbdf1432.chunk.js.LICENSE.txt": "/react-netflix-and-chill/static/js/2.fbdf1432.chunk.js.LICENSE.txt",
+    "static/media/logo.5787551b.svg": "/react-netflix-and-chill/static/media/logo.5787551b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd63ca59.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.fbdf1432.chunk.js",
+    "static/js/main.101af4d3.chunk.js"
+  ]
+}
